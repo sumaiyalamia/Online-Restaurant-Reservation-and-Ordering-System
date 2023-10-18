@@ -1,5 +1,5 @@
 # Online-Restaurant-Reservation-and-Ordering-System
-The languages used for this project are PHP, Javascript and MySQL. The project has two panels: user and admin.
+The languages used for this project are PHP, JavaScript and MySQL. The project has two panels: user and admin.
 
 User Panel: From the user panel, an individual can order food as well as reserve a table by filling out an online form. Table reservations can be done by filtering time, date, and number of people.
 
